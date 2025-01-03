@@ -1,6 +1,6 @@
 # 一、下载
 windows版本（中文）
-
+https://pan.baidu.com/s/1yuGqbdSbrr9Grwv7WkV8lw?pwd=0520 提取码: 0520 
 # 二、使用
 安装完成后第一次打开，需要根据下图
 1  选择配置
@@ -29,6 +29,8 @@ windows版本（中文）
 ![屏幕截图 2025-01-03 120453](https://github.com/user-attachments/assets/8517f0ef-a9a9-4cf2-965a-6c76fb263322)
 3 保存
 ![屏幕截图 2025-01-03 120508](https://github.com/user-attachments/assets/1d1a6968-aa96-454c-b630-b03f2c463911)
+# 视频操作
+https://pan.baidu.com/s/1AHSq4vHMKV0KrN_1i4GErg?pwd=0520 提取码: 0520 
 # 三、订阅链接推荐
 1    龙猫云（按月定，速度快）
 https://linkdyv1.lmsub.com/#/register?code=Px4v6ORt
