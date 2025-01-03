@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/GGGggg686/Clash-for-windows-/main/Clash%20for%
 3 保存
 ![屏幕截图 2025-01-03 120508](https://github.com/user-attachments/assets/1d1a6968-aa96-454c-b630-b03f2c463911)
 # 视频操作
-
+https://github.com/GGGggg686/Clash-for-windows-/raw/refs/heads/main/clash%20user.mp4
 # 三、订阅链接推荐
 1    龙猫云（按月定，速度快）
 https://linkdyv1.lmsub.com/#/register?code=Px4v6ORt
