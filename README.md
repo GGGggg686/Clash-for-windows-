@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/71beb96d-0d50-4bcf-8bee-16fcd4d44ce9)Clash for windows使用教程
 # 一、下载
 windows版本（中文）
 
