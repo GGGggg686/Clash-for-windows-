@@ -1,6 +1,6 @@
 # 一、下载
 windows版本（中文）
-
+https://github.com/GGGggg686/Clash-for-windows-/blob/main/Clash%20for%20windows.exe
 # 二、使用
 安装完成后第一次打开，需要根据下图
 1  选择配置
