@@ -33,11 +33,7 @@ https://raw.githubusercontent.com/GGGggg686/Clash-for-windows-/main/Clash%20for%
 # 视频操作
 https://github.com/GGGggg686/Clash-for-windows-/raw/refs/heads/main/clash%20user.mp4
 # 三、订阅链接推荐
-1    龙猫云（按月定，速度快）
+    龙猫云（按月定，速度快）
 https://linkdyv1.lmsub.com/#/register?code=Px4v6ORt
 ![image](https://github.com/user-attachments/assets/7d2fed38-5b8f-4349-912b-1a2b8876d45a)
-2    快云帆（可按流量定，适合不常使用的）
-https://kfcloud.buzz/#/register?code=GKhY5hnS
-![image](https://github.com/user-attachments/assets/d4bbc04a-feb5-4c43-b374-7d6f5fdfff90)
 
-![image](https://github.com/user-attachments/assets/f0d03af6-d35a-4ab9-bbd0-bd11340c75fc)
